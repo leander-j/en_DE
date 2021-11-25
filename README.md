@@ -1,4 +1,4 @@
-# en_DE – English language German locale
+# en_DE: English language locale for Germany
 
 I created this file by merging the locale files [en_US](https://sourceware.org/git/?p=glibc.git;a=blob;f=localedata/locales/en_US) and [de_DE](https://sourceware.org/git/?p=glibc.git;a=blob;f=localedata/locales/de_DE) as suggested [here](https://unix.stackexchange.com/a/209887) so you don't need to. Feel free to follow [this post](https://askubuntu.com/a/162714) to modify it further.
 
